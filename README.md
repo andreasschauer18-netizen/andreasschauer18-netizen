@@ -7,7 +7,9 @@ Ich absolviere seit 2026 eine Umschulung zum IT-Systemelektroniker in Dresden. N
 
 
 ## 🛠️ Technik, mit der ich arbeite:
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,debian,linux,raspberrypi,docker,git,github,fastapi,flask,sqlite&perline=10" alt="Meine Technologien" />
+</p>
 
 - **Systeme und Netzwerke:** Debian, Raspberry Pi OS, Linux-Administration, DNS, DHCP, SSH, Samba
 
