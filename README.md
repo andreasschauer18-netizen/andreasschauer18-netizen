@@ -20,44 +20,76 @@ Ich absolviere seit 2026 eine Umschulung zum IT-Systemelektroniker in Dresden. N
 - **Hardware:** Raspberry Pi, Scanner, Drucker und kleinere Netzwerkprojekte
 
 
-## 📦 Ausgewählte Projekte:
 
+## 📦 Ausgewählte Projekte
 
-### Flohmarktverwaltung von Anke und Andreas
+### 🧺 Flohmarktverwaltung von Anke und Andreas
 
-Private, browserbasierte Lager- und Verkaufsverwaltung auf einem Raspberry Pi 5. Sie verbindet Artikel- und Fotoerfassung, Lagerplätze, Verkaufshistorie und Datensicherung.
-Die Weiterentwicklung umfasst unter anderem KI-gestützte Artikelbeschreibungen.
+**Status:** 🟢 Im Betrieb – fortlaufende Weiterentwicklung
 
-Technik: Python · FastAPI, SQLite, Docker, Caddy, Debian
+Browserbasierte Lager- und Verkaufsverwaltung für Flohmarkt und eBay auf einem Raspberry Pi 5.
 
-GitHub-Repository: privat – der Quellcode ist nicht öffentlich einsehbar.
+**Funktionen:** Artikel- und Fotoerfassung, Regal- und Kistenverwaltung, Verkaufsarchiv, KI-unterstützte Artikelbeschreibungen und automatische Datensicherung.
 
+**Technik:** Python, FastAPI, SQLite, Docker, Caddy, Debian 13
 
-### TLH-KFZ-Teile
+🔒 **GitHub:** Privates Repository
 
+---
 
-Praxisprojekt zur Verwaltung gebrauchter Kfz-Ersatzteile mit Lagerstruktur, Barcodeerfassung, Bestandsbuchungen und Benutzerrollen. Schwerpunkt ist die Verbindung von Webanwendung, Datenhaltung und technischer Infrastruktur.
+### 🚗 TLH-KFZ-Teile
 
-Technik: Python, Flask, SQLite, Linux, Barcode- und Drucktechnik
+**Status:** 🟡 Funktionsfähiger Projektstand – Erweiterungen geplant
 
+Praxisprojekt zur digitalen Verwaltung gebrauchter Kfz-Ersatzteile mit eindeutiger Zuordnung zu Fahrzeugen und Lagerplätzen.
 
-### Multi-PI
+**Funktionen:** Fahrzeugverwaltung, Bestandsbuchungen, Barcodeerfassung, Etikettendruck, Benutzerrollen und automatische Datensicherung.
 
+**Technik:** Python, Flask, SQLite, Linux, HTML, Barcode- und Drucktechnik
 
-Privates Raspberry-Pi-Projekt mit Musikserver, Dateiablage, Foto- und Dokumentenverwaltung sowie Netzwerkfreigaben. Dabei stehen zuverlässiger Betrieb, Datensicherung und die Nutzung verschiedener Endgeräte im Vordergrund. Musikserver, die Fotoverwaltung und die Netzwerkfreigaben sind bereits praktisch eingerichtet und getestet.
+🔒 **GitHub:** Privates Repository
 
-Technik: Raspberry Pi 5, Debian 13, Navidrome, Immich, Docker, Samba, SSH, Linux, Netzwerktechnik, USB-Festplatten, NVMe-SSD
+---
+
+### 🎵 Multi-PI
+
+**Status:** 🟢 Im Betrieb – weiterer Ausbau
+
+Privater Raspberry-Pi-Server für Musik, Fotos, Dokumente und gemeinsame Dateiverwaltung im Heimnetz.
+
+**Funktionen:** Musikstreaming, Fotoverwaltung, Dateiübertragung, Netzwerkfreigaben und Zugriff von verschiedenen Endgeräten.
+
+**Technik:** Raspberry Pi 5, Debian 13, Docker, Navidrome, Immich, Samba, SSH, NVMe-SSD
+
+🔧 **Schwerpunkt:** Linux-Administration, Heimnetz und Serverdienste
+
+---
+
 
 ## 🎯 Aktuell beschäftige ich mich mit:
 
 
-- *Netzwerk- und Systemadministration im Rahmen meiner Umschulung*
+## 📊 Meine GitHub-Aktivität
 
-- *Sicherer Versionsverwaltung und nachvollziehbarer Projektdokumentation*
+[![GitHub-Follower](https://img.shields.io/github/followers/andreasschauer18-netizen?style=for-the-badge&logo=github&label=Follower)](https://github.com/andreasschauer18-netizen)
 
-- *Praxisnahen Python-Anwendungen und Raspberry-Pi-Diensten*
+### Aktivitätsübersicht
 
-- *Der schrittweisen Verbesserung meiner eigenen IT-Projekte*
+![GitHub-Aktivität](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreasschauer18-netizen&theme=github_dark)
+
+*Die Grafik zeigt öffentlich zugängliche GitHub-Aktivitäten. Meine privaten Entwicklungsprojekte werden nicht vollständig berücksichtigt.*
+
+### 💻 Programmiersprachen und Technologien
+
+| Technologie | Einsatzbereich |
+|---|---|
+| 🐍 **Python** | Webanwendungen, Lagerverwaltung und Automatisierung |
+| 🗃️ **SQL / SQLite** | Datenbanken, Artikel- und Bestandsverwaltung |
+| 🌐 **HTML, CSS, JavaScript** | Browseroberflächen und Benutzerinteraktion |
+| 🐧 **Bash / Shell** | Linux-Administration, Skripte und Datensicherung |
+
+*Die Angaben beschreiben meine praktische Projekterfahrung und sind keine automatisch ermittelten GitHub-Sprachstatistiken.*
+
 
 
  
