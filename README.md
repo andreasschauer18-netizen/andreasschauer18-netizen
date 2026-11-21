@@ -7,15 +7,27 @@ Ich absolviere seit 2026 eine Umschulung zum IT-Systemelektroniker in Dresden. N
 
 
 ## 🛠️ Technik, mit der ich arbeite:
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,debian,linux,raspberrypi,docker,git,github,fastapi,flask,sqlite&perline=10" alt="Meine Technologien" />
 </p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/proxmox/E57000" height="48" alt="Proxmox VE" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/commodore/FFFFFF" height="48" alt="Commodore OS" />
+</p>
+
+<p align="center">
+  <sub>Proxmox VE · Commodore OS</sub>
+</p>
+
 
 - **Systeme und Netzwerke:** Debian, Raspberry Pi OS, Linux-Administration, DNS, DHCP, SSH, Samba
 
 - **Entwicklung:** Python, FastAPI, Flask, SQLite, HTML, Git und GitHub
 
-- **Betrieb:** Docker, Docker Compose, Caddy, systemd und Datensicherung
+- **Betrieb und Virtualisierung:** Docker, Docker Compose, Caddy, systemd, Datensicherung und Proxmox VE
 
 - **Hardware:** Raspberry Pi, Scanner, Drucker und kleinere Netzwerkprojekte
 
@@ -62,6 +74,21 @@ Privater Raspberry-Pi-Server für Musik, Fotos, Dokumente und gemeinsame Dateive
 **Technik:** Raspberry Pi 5, Debian 13, Docker, Navidrome, Immich, Samba, SSH, NVMe-SSD
 
 🔧 **Schwerpunkt:** Linux-Administration, Heimnetz und Serverdienste
+
+---
+
+
+### 🖥️ Commodore OS unter Proxmox
+
+**Status:** 🟢 Öffentlich dokumentiertes IT-Projekt
+
+Installation und Konfiguration von Commodore OS Vision 3.1 in einer Proxmox-Virtualisierungsumgebung. Dokumentation der Einrichtung und der Behebung aufgetretener Desktop-Probleme.
+
+**Schwerpunkte:** Virtualisierung, Betriebssysteminstallation, Linux, Systemkonfiguration und Fehleranalyse.
+
+**Technik:** Proxmox VE, Commodore OS Vision 3.1, Linux, Virtuelle Maschinen
+
+🌐 **GitHub:** [commodore-os-proxmox](https://github.com/andreasschauer18-netizen/commodore-os-proxmox)
 
 ---
 
