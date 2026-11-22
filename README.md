@@ -107,7 +107,7 @@ Anwendungsoberflächen.*
 ---
 
 ### 🖥️ Commodore OS unter Proxmox
-
+![GitHub Profil Collage](commodore-os-collage.png)
 **Status:** 🟢 Öffentlich dokumentiertes IT-Projekt
 
 Installation und Konfiguration von Commodore OS Vision 3.1 in einer Proxmox-Virtualisierungsumgebung. Dokumentation der Einrichtung und der Behebung aufgetretener Desktop-Probleme.
