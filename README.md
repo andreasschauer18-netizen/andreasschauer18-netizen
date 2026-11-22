@@ -68,20 +68,46 @@ Praxisprojekt zur digitalen Verwaltung gebrauchter Kfz-Ersatzteile mit eindeutig
 
 ---
 
-### 🎵 Multi-PI
+### 🏠 Multi-PI – Raspberry Pi 5 Heimserver
 
 **Status:** 🟢 Im Betrieb – weiterer Ausbau
 
-Privater Raspberry-Pi-Server für Musik, Fotos, Dokumente und gemeinsame Dateiverwaltung im Heimnetz.
+![Raspberry Pi 5](https://img.shields.io/badge/Raspberry_Pi_5-Heimserver-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Navidrome](https://img.shields.io/badge/Navidrome-Musikserver-3478C0?style=for-the-badge)
+![Immich](https://img.shields.io/badge/Immich-Fotoverwaltung-7C4DFF?style=for-the-badge)
+![Samba](https://img.shields.io/badge/Samba-Netzwerkfreigaben-178A48?style=for-the-badge)
 
-**Funktionen:** Musikstreaming, Fotoverwaltung, Dateiübertragung, Netzwerkfreigaben und Zugriff von verschiedenen Endgeräten.
+**Mein privater Heimserver auf Basis eines Raspberry Pi 5
+mit 16 GB RAM und Debian 13.**
 
-**Technik:** Raspberry Pi 5, Debian 13, Docker, Navidrome, Immich, Samba, SSH, NVMe-SSD
+Der Multi-PI stellt Musik, Fotos, Videos und Dateien
+zentral im Heimnetzwerk bereit.
 
-🔧 **Schwerpunkt:** Linux-Administration, Heimnetz und Serverdienste
+**Bereits umgesetzt:**
+- 🎵 Navidrome – Musikstreaming
+- 📸 Immich – Foto- und Videoverwaltung
+- 📂 Samba – Gemeinsame und private Netzwerkfreigaben
+- 🐳 Docker – Verwaltung der Serveranwendungen
+- 🔐 SSH – Fernadministration
+
+**Geplante Erweiterungen:**
+Sprachassistent, Musiksteuerung und weitere
+Automatisierungen.
+
+<img src="multi-pi-collage.png"
+     alt="Multi-PI – Raspberry Pi 5 Heimserver-Projektcollage"
+     width="100%">
+
+*Illustrative Projektcollage mit beispielhaften
+Anwendungsoberflächen.*
+
+🔗 **[Multi-PI auf GitHub ansehen](https://github.com/andreasschauer18-netizen/Multi-PI)**
+
+*Hinweis: Das Multi-PI-Repository ist privat.
+Der Quellcode ist daher nicht öffentlich zugänglich.*
 
 ---
-
 
 ### 🖥️ Commodore OS unter Proxmox
 
