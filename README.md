@@ -102,10 +102,7 @@ Automatisierungen.
 *Illustrative Projektcollage mit beispielhaften
 Anwendungsoberflächen.*
 
-🔗 **[Multi-PI auf GitHub ansehen](https://github.com/andreasschauer18-netizen/Multi-PI)**
-
-*Hinweis: Das Multi-PI-Repository ist privat.
-Der Quellcode ist daher nicht öffentlich zugänglich.*
+🔒 **GitHub-Repository: Privat**
 
 ---
 
