@@ -39,7 +39,7 @@ Ich absolviere seit 2026 eine Umschulung zum IT-Systemelektroniker in Dresden. N
 
 
 <a href="https://github.com/andreasschauer18-netizen/flohmarktverwaltung">
-  <img src="flohmarkt-collage.png" alt="Flohmarktverwaltung von Anke und Andreas" width="350">
+  <img src="flohmarkt-collage.png" alt="Flohmarktverwaltung von Anke und Andreas" width="1000">
 </a>
 
 **Status:** 🟢 Im Betrieb – fortlaufende Weiterentwicklung
