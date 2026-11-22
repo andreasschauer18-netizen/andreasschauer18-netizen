@@ -37,6 +37,11 @@ Ich absolviere seit 2026 eine Umschulung zum IT-Systemelektroniker in Dresden. N
 
 ### 🧺 Flohmarktverwaltung von Anke und Andreas
 
+
+<a href="https://github.com/andreasschauer18-netizen/flohmarktverwaltung">
+  <img src="flohmarkt-collage.png" alt="Flohmarktverwaltung von Anke und Andreas" width="350">
+</a>
+
 **Status:** 🟢 Im Betrieb – fortlaufende Weiterentwicklung
 
 Browserbasierte Lager- und Verkaufsverwaltung für Flohmarkt und eBay auf einem Raspberry Pi 5.
